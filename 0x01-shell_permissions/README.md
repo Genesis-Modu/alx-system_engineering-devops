@@ -1,1 +1,1 @@
-betty basic
+Shell permissions
